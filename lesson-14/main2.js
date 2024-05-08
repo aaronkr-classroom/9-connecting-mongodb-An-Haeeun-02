@@ -14,7 +14,7 @@ const port = 3000,
  * Mongoose를 사용한 MongoDB 연결
  */
 const mongoose = require("mongoose"),
-dbURL = "mongodb+srv://135ssg:MwQ7VbYnCQioGvsa@ut-node.lvbkpqv.mongodb.net/?retryWrites=true&w=majority&appName=ut-node",
+dbURL = "mongodb+srv://135ssg:8m6wl5LWOF5fnHKd@ut-node.lvbkpqv.mongodb.net/?retryWrites=true&w=majority&appName=ut-node",
 dbName = "ut-node";
 
 mongoose.connect(
